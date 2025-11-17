@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paritosh-sharma1&label=Profile%20views&color=0e75b6&style=flat" alt="paritosh-sharma1" /> </p>
 
-- 🌱 I’m currently learning **DSA, CP, and Full-Stack Web Development**
+- 🌱 I’m currently learning **DSA, CP, and MERN Stack Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
